@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sameera Bandarage | By profession a Data Engineer.
+- 👀 I’m interested in Creating artificial Brains in Financial and Telco domains.
+- 💞️ I’m looking to collaborate on distributed systems and algorithms design projects as my Hobby.
+- 📫 You can reach me @ https://www.linkedin.com/in/sameeradatabee/
