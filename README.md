@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sameera Bandarage | By profession a Data Engineer.
 - 👀 I’m interested in building AI powered autonomous systems, Enterprise wide multi discipline monitoring and reporting platforms for Financial and Telco domains.
 - 💞️ I’m looking to collaborate on distributed systems, monitoring platforms and big data algorithm design projects as my Hobby.
-- 💬 Ask me about Data Engineering, Apache Airflow, Pyspark, Azure, Computational Mathematics and Statistics.
+- 💬 Ask me about Data Engineering, Data Warehousing, Cloud Migrations, Computational Mathematics and Statistics.
 - 📫 You can reach me @ https://www.linkedin.com/in/sameeradatabee/ | https://www.kaggle.com/vamiyerggv | https://openanalytica.blogspot.com/
