@@ -3,4 +3,4 @@
 - 💞️ I’m looking to collaborate on distributed systems, monitoring platforms and big data algorithm design projects as my Hobby.
 - 💬 Ask me about Data Engineering, Data Warehousing, Cloud Migrations, Computational Mathematics and Statistics.
 - 📫 You can reach me @ https://www.linkedin.com/in/sameeradatabee/ | https://www.kaggle.com/vamiyerggv | https://openanalytica.blogspot.com/
-- 💬 topmate.io/sameera.bandarage
+- 💬 https://www.topmate.io/sameera.bandarage
